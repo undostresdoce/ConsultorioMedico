@@ -1,0 +1,24 @@
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: #f8f9fa;
+  margin: 0;
+  padding: 0;
+}
+
+h1,
+h4 {
+  margin-bottom: 20px;
+}
+
+.container {
+  margin-top: 50px;
+}
+
+footer {
+  background-color: #86b4e3;
+  padding: 20px 0;
+  text-align: center;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
